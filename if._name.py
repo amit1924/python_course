@@ -1,0 +1,4 @@
+import amit
+
+amit.hello()
+
